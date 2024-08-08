@@ -7,12 +7,12 @@
             "birthday": 1041638400000,
             "_id": "589861238c26a32953b1b593"
         },
-        "id": "589861238c26a32953b1b593_9223370313911047807_tr",
+        "id": "589861238c26a32953b1b593_9223370313825840807_tr",
         "feel": 0,
-        "calorie": 135,
-        "duration": 1360,
-        "startTime": 1722941517000,
-        "endTime": 1722943728000,
+        "calorie": 80,
+        "duration": 953,
+        "startTime": 1723027979000,
+        "endTime": 1723028935000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 106.0,
-            "maxHeartRate": 137,
+            "heartRates": "H4sIAAAAAAAAAK3bzWodRxRF4XfRWINb/9We5QECnhsPFFBAEAcTyRAIefcYjdLL+xIW6Zk0Oeyurqqvq/vcT389vL18eX59e/ry9eHD7fH9v5/+fHl9/+eX56e314/Pf/z88vu3t+eHD2s/Pnx9+vb6/c9fn357fX58eHn9+K///348lRuneiMU3FUVLLdTxfd/fyjZXclzyBJTTlWynlPWmPJwJc8pa0p5FFWynVO2lPJwF97OKVtMeVMl+zllj2PpZmU/p+wX3PFxw0z///NyYPHElEOVnOeUM6ZcruQ55Ywp3VRf55Qrzks31dc55YrzsqmS+5xyx5Tu9uxzyn1ByuOc8rhgLI9zyuOCefl9G+e2noq6nOWGjf2Wki43NwsBygLJpCQoGySlBEIlK+SmUwFDJTpk7z4gKlEiXRRJo0W2KDAqWSM5puCoZI9kUoBUokiHfVLio1LcoZycBSiVqNIhJz9YKtElWxQwlSyTvFGgqWSb5I0CTuUKnQp4KtknuZ8CqJKFcs93BUSVaJS8/AqjajRK3qgKo2o0yhaFUTUaZS8fRtVolE3Kg1I0yiblUSmfleSJDkbVfFqSZzoYVaNR5eY8qUCqRqTKzT2jVChVo1KHOzxUKFWvUKpCqZqVkoMKpWpWSo4plKpZKZkUStWslC2KpFkpuVChVM1KyYUKpWpWSs5TKFWzUrYokmalHH0NSrWslC2K1zpZKXf5DUq1rJRMCqVaVMrufQ1MtchUubnHyQanWnRKV+VbvQhVucn3enyxl9/syaKAqkWo5EN6g1MtO+VIaXCqZafkAoBTLTvlHikanGrRqfelpqoiaoTKPqg0SNWiVKXIrKCqRapKkVsArGrRKl8VWSNWpcglAK1a1Krc5MwCVy1yZUegw6sevSrFzawOsHoEy45rh1g9iuWrImsmy1YFWT2TZe8WyOp3yJKfY0BWv0OW2147yOp3DlfumbXzc9Sdw5UcAX6RimjZFduhVo9q6ZkFtnpkS69YuNWzW7oqsma3pDAdbvXslp2vcKvfcUtmhVv9jlu2KrJmt+wqgFv9ilNWB1v9ineBA2qNfMpym+sAWiOfstxqHTBr5O9VbmMZIGvk71VyTCHWuOJ71QBYI4IlvwEOeDWiV7ZTBlyNyNWSYwqtRtRKF0XSiJW9fDZQRKuWbMr4oYXiijGFVCNKteQyBVQjQrXk5IdTIzplxxRMjciUvftQakSldFEkjUjZphwYNaJRsh9pwKiReyrcLjVh1MxGOfgnjJrZKAffhFEzvwl0k3/CqJm/V8miMGrm71Vu7U8YNfP3KlkURs3cU+Hm6YRRM/dUyKIwauaeCrdLTRg1c0+FbnU7F81vAeWKglEz9/nJtQ+jZjTKjilb/XKvn+xIhFEzGqWLImk0Sj5KThg1o1GSkwmjZjZKrn0YNbNR8vJh1MxGubW/YNTKfX+2fRTNntEoOfkXjFpXdJ4vGLWu6PtbMGpdcY5aMGrlvj+39S0YtbJRstMXRq1slCwKo1Y2St59GLWyUbrR+Vw0d6LbokiajZJ3H0atbJRMCqNWNkreKDakX2HUYkt6NkruUjBq5Y4KOaYwauWOCrlLwaiV3/XJXQpGrfyuz939DaN2PkfZHw8MFL3g2++GUTufo+Tlw6h9Rd/fhlE7n6PcPN0waudzlPxJBozaue9PJoVRO3dTyKQwauduCpkURu1slLz7MGpfcY7aMGrnbgo5pjBqR6Ps5IdR+4re9A2jdjbKPZ5vGLWzUe4UvfnDqSvOUZs/nbriXd+GUTufoxzRG0btfI7Sv/I6FT3yOcolPWDUkc9RMimMOvI5SiaFUccVv+E9YNSRz1FuQzlg1JHPUW6ZHjDqyEa5DeWAUUc2ShaFUUc2yi3TA0YduePvv+bp538AoqhaMQk/AAA=",
+            "averageHeartRate": 91.0,
+            "maxHeartRate": 113,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -52,7 +52,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI WATCH FIT 2",
-            "vendorRecordId": "1722941517000_tr_traditionalGymTraining"
+            "vendorRecordId": "1723027979000_tr_traditionalGymTraining"
         },
         "planId": null,
         "workoutId": null,
