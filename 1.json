@@ -7,12 +7,12 @@
             "birthday": 1041638400000,
             "_id": "589861238c26a32953b1b593"
         },
-        "id": "589861238c26a32953b1b593_9223370281440538807_tr",
+        "id": "589861238c26a32953b1b593_9223370281356953807_tr",
         "feel": -1,
-        "calorie": 151,
-        "duration": 1146,
-        "startTime": 1755412945000,
-        "endTime": 1755414237000,
+        "calorie": 182,
+        "duration": 1235,
+        "startTime": 1755496457000,
+        "endTime": 1755497822000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAAK3cy4ocRxCF4Xfp9SzyftHOD2DQXmgxhjYMWEa4R2Awfnc3gxeuUycwP9ROrUUQk7evIqsyv/x1e3/7dn+8v377fvuUXj5+/fTn2+Pjxy/31/fH5/sfP7/9/uP9fvuUU365fX/98Xj++9fX3x73l9vb4/N/fv/9cojXDwG7jVhQxJwOIT9+nmNWFvOYZvZ5LhSzHPMsNs/MWrMc8yw2z8zyrMc8q82zJBbzmGe1eZaOYrZjns3mWdlYasc8m82zsrHUkwx5+7fDmDKNfL9PFHMc8xx+fMKYxzyHz7OhmPOY5/R5sn6fxzynz5P10TrmuXyebMyvY57rin7fxzy3H59sXdrHPLef76zfnwu7LvQXzM6cZKlPV8z5rCh5lWCrZmXJu0SjCkzZywRXqCw0ZW8THQOCUw50YrMqC0858GmwqAJU9kIVNluzEJW9UTRXQSp7pSpTP3d9jPJzCz7vCVTZS1U2jCq5BlbBkSVYZa8VnbHCVfZe0VkgYGUvFl0HhKzszaJRBa0cqEWjSq6XuFXEreLdgr1VxK3i3YKzoIhbxbtVYQuIW8W71dg6ULSg8m41mKuWVN4tmqu4VbxbDVZ/4lbxbtGo4lYJKitY/YpbJaitYFRxqwRu0ahaVvtcmdxF3CrercrkLuJW8W7RXMWt4t2CT8VF3CqBW7C3xK0SuAXbVdwqgVuwXcWt4t2i66u4VbxbcAxUcat6txrcCRK3qnerMbequFW9Wx3mKm7VwC0mdxW3qnerwhYQt6p3C66EVTcDvVs4quTq3aJRxa3q3aLjVdyq3i06BsSt6t3CUXWb1efKVpcqblXvFnwiquJW9W7R3hK3auAWnFviVvVu0fEqblXvFs1V3KrercbkruJW9W41KIy4Vb1bjcndxK0WuMVmQRO3WuAWfN8gbjXvFo4quQZuwRYQt9ol9VYTt5p3q8N3Q+JW8251OLLErebd6mxuNX2R5d2Czy5NX2UFbrE1q4lbLXALjgFxqwVusdWliVstcAuOAXGrBW7BFhC3mncLPg80cat5t+jIEread6vDkSVuNe9WZxo2cat5t3BUydW7BaN2cat7twazoItb3bs12Hjt4lb3btFcxa3u3RrwixNxq3u3BpsFXdzqgVtwDIhbPXCLRpVcL3Gri1s9cItGlVy9WzSqfoTh3epwFpw+w7gkV3Gre7doruJW927RqOJWD9xicndxq3u3YA3Txa0e1FtwHRC3uneLRhW3elBvwZVQ3OpBvcVyHeLWCOot1ltD3BpBvcWe3oa4NYJ6i62vQ9wa3q3ONBzi1vBuwdVliFsjcIutA0PcGoFbMFdxawRusafiIW6NwC02t4a4NYJ6C44scWsE9RaNqp/lXfHecIhbI3i/BXPVTwiD91swqrg1ArdgC4hbI3ALRhW3RuAWq7eGuDUCt2C7ilsjcAuu2uLWCNzC35Eeok7vFlyzprg1vVs0qrg1g/db8KtXcWsGbrHngSluzcAtmKu4NQO32Nya4tYM3IK5ilszcAuOV3FrBm6xdWCKW9O7BWvuKW5N7xaOKrl6t+CuwxS3pncLR5Vcg3oL9pZ+/O7d6qzemvr5e7BPCHMVt6Z3i44BcWt6tyZcs8St6d3CUSVX79Zg7brErRXsE7IxsMStFewTwqji1gr2CdlTxhK3VrBPCNtV3FrBPiFsAXFrebcGPAcibi3vFtzVXeLW8m4NeA5G3FreLbi+LnFrXeLWErdWsE/I1oElbq1gnxBGFbdWsE9Io0quwfst9gS/xK11yfutJW6toN6Cs0APbnm3cFTJNfguA64u4tYK3m/B3hK3VvB+C58zO0TdQb3FxsAWt3ZQb8Go4tYO6i3Wrlvc2kG9xdza4tYO3GLr6xa39iVubXFrX+LWFrd24BaMKm7tS9za4tYO3IJzS9zaQb0FR5a4tYN6iz29bXFre7cmbFdxa3u3aAuIW9u7RXtL3NreLRpV3NpBvQV7S9zal9RbWw8dB/UWe9LceuzYuzX5ueND2H//4xwXnrlMp6PH3i7YCjmdbsTwek146jDp8eN0Sd2Vkx5ATpdUXs8wmm9gGO03PYScAsVwXM03cIy2rx5EToFkOK7mG1gGz6EmPYycLtk9fIbRfIM6jPbb0HyDSozOYz2SnII9RNoOeig5BdUYPEGd9FhyCuoxOo/1YHK6pCJ7htF8g5qM3kekh5NT8BaMmfkMo/kG57zg+D1drHHRzRqnqzWiuzVgO5wv1whOKdPbNU7Xa3jfcDuob8ENG/QehNMVG8EdGziu+hbdsgG9OF2zEd2zAefx6aKN6KaN/4v79R9kOj0C+0wAAA==",
-            "averageHeartRate": 145.0,
-            "maxHeartRate": 176,
+            "heartRates": "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",
+            "averageHeartRate": 154.0,
+            "maxHeartRate": 182,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -52,7 +52,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI WATCH GT 4",
-            "vendorRecordId": "1755412945000_tr_skipping"
+            "vendorRecordId": "1755496457000_tr_skipping"
         },
         "planId": null,
         "workoutId": null,
