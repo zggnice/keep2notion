@@ -7,12 +7,12 @@
             "birthday": 1041638400000,
             "_id": "589861238c26a32953b1b593"
         },
-        "id": "589861238c26a32953b1b593_9223370280489460807_tr",
+        "id": "589861238c26a32953b1b593_9223370279820856807_tr",
         "feel": -1,
-        "calorie": 122,
-        "duration": 895,
-        "startTime": 1756364360000,
-        "endTime": 1756365315000,
+        "calorie": 76,
+        "duration": 577,
+        "startTime": 1757033114000,
+        "endTime": 1757033919000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAAK3by4ocRxCF4Xfp9Sw6LxGZrZ0fwDB7ocUY2jBgCaEegcD43SVmpTqcwPxQO7UWwSEv9WVF5Xz89/L2+vn+eHv5/PXy4fr0/uuPH6+P9x9/3V/eHs/3b3++fvn+dr98uOXT5evL98evf/798s/j/nR5fTz/9vu/p0O5ONQLV/CGCrbroeL7Ty35/p+k5jFlczHbdaKa/Ziz+5yb1Tzm7DZn66jmOOYcNmdbrOYx57A5O8s5jzmnzTlhzWPOaXMONkdxlRVva7L1GbKL/HiymnnMmWfMex5zpl+fbL+vY85lc/bGah5zLj+ebL/vY87tc7K1tI85t80J1/ztmPPm99FgNY85bz4nm6Nfz3B90J9SVR7111OyKkpeJVxVsnqXZrCqAlPzMk2285vQ1LxNk+2pJjg1rxNcrU14at6nAUdAgGpeqAFnS4hqhVEwqyDVCqVoVT1GnZJVoGpeqgFPkUJV81bRlSVYNa/VhFmFq+a9CuZAE7CaFyvgehWymjcr4flc0GperYQjIGw17xbM2sWt7t2C49rFre7dCrZeu7jVC7fYeu3iVi/cglX1hapwi72edn2lKtyCsyVu9cItuLLErV64BcdV3OqFW7SqZPVu0REQt3rhFpwtcasXbsGq4lYv3ILrVdzq3q0BexXiVvdu0aziVvdu0ariVvdu4aqS1btF14C41b1bdG+JW927FWxvDXFrFG7RqtIKKt632HvxELdG4RabrSFujcIttreGuDUKt2BWcWsUbsG+nTYDC7fgbGk70LtFs4pbw7sFT0RD3BreLXh6G+LW8G7BE/wQt4Z3i+5YcWt4t3BVyerdCtYhGeLW8G7hqpLVuwXPr0PcGsX7Fswqbg3vFp0tcWsUXUL4HBC3RtEnZM/XKW7Nok9IvzbIpwHvFuxlTHFrercGe2ZNcWt6twYcAXFrerfg15Epbs3CLTgC4tYs3IIjIG7Nwi2YVT9kFV+yaFXJWrxvsVPxFLemd4tmFbemdws+Xaa4Nb1b8JQxxa1Z9AlhVXFrntInnOLWLPqETJgpbs3CLZhV3JqFW7CquDW9WwFnS9yaxfsWyxriVni3YPcxxK0o+oQwq7gV3q2AX8rFrSjcYrMV4lYUbtGqktW7Re8KiFtxSp8wxK0o3IJVxa0o3GKntxC3onALjqtewjjpFoZew/D3BmBWcSu8Wx2uV3ErvFs0q7gVRZ+QnbNC3IqiTwhXlrgV3i14dglxK4o7GXBcxa0o3ILrVdyKwi3Wy0hxK0/5vpXiVhZusRFIcSsLt2hVyerdolXFrfRu4aqS1btFZ0vcSu8WripZvVuwo5fiVhZ9Qjiu4lae4laKW1m8b9GqkrXoE7L3ghS3sugT0qqStegTMmFS3MqiT0irStZT+oQpbmXhFlwD4lYWbsEdK25l0SdkXYcUt7LoE7KqS9xaRZ+QnbOWuLWK71vwzqu4tQq32Hpd4tbybiVbWUvcWt6thCMgbi3vVsI1IG4t71ayk+YSt5Z3i1YVt5Z3C1eVrN6tZM+BJW4t7xbNKm4t71ay88ASt5Z3K+GNcnFrebdoVb387t1K+MzS6+/eLboGxK3l3aJrQNxaxX1C+BwQt1ZxnxA+s8St5d1abA1scWt7txabrS1ube/WYuO6xa3t3Vpsx25xa3u3aFVxa3u3cFXJ6t1a8G9LxK3t3aJrQNza3i06AuLW9m4tdnbZ4tb2btG9JW5t7xauKlkLt9jTZYtbu3AL/oWRuLULt+B6Fbd24RZcWeLWLtyCs6V/uFW4RatK1sItuAvErV249X+z9eknNYBRWPM7AAA=",
-            "averageHeartRate": 147.0,
-            "maxHeartRate": 176,
+            "heartRates": "H4sIAAAAAAAAAK3ay4oTURgE4HfJOov+b32ZnQ8gzF5cRIgQcGSwMyCI765k5ampHynoXbIpij6X75x0Pv063W8v1/1+eXk9PU3nx7cPP2/748uX6+W+P19/fLx9f7tfT0/rcj69Xt72vx+/Xr7t1/Pptj//8/33eYirIa9I4DZLgTYNiY+vGGmTa5ljS2M1zSYp08eeTntaaJljT+c9S8qMsWfQnp5a5tgzaM/QJlKOPZP2VDPHnsl7amNUE8x4OkablgmriI/7KmXOY8/5iHGfx54z7elaz2XsufBx18ZoGXsufNy1nuvYc6U9U9uX1rHnSnumtn9uY8+N99Tm5zb23GjPEvfk6d1GT1O1GWoTbPUT76rtoYYocZVcTYWu3CXX9jwDmIzLJKdCV25TaIYa4GRcpxCfK/BkjU/aGjAAyrhQ4mo1IMq4UWoqIGVcqRRHq/AYxZ+r2BWgMi6VnApduVXqfAWsrNHKxFTo2ngldgWwjIvl4ioAsoybJZ5/DNAyrpacCl25Wy6e0cEt526Jo+XglnO3xJ3QwS3nbok7oYNbzt1KsSteqLhbqZ3aHK9U3K3SVqyDW87dKnFmgVvO3RLPLg5uOXdLPGc5uOXcLfW5glvO3ZJT8VrNu4orFtxy7pacCl25W+raArecu5XifAW3nLulpoJb3ty01FTo2ty1xFUAbnlz2xL3LHDLm/uWtgoC3IpD7lsBbkVz39KeQIBbwd2atRtngFvB3Zq1k2aAW8HdmjVjA9wK7tai7S6BPwZytxZxDuDPgY1b2ooNcCsat8Q5AG5F45aYCm5F45b4BMCtaNzSbvIBbgV3S11b4FZwt9S1BW4Fd0tdBeBWcLcWcX8Ft4K7pa4tcCu4W2pXcCu4W7OaCl25W7M2WgluZeOWtr8muJWNW2IquJWHuJXgVh7iVoJbyd0SZ1aCW9m4JaaCW9m4JT5XcCsbt8R3Tvgiq3FLTYWujVvy+7ExtXFLTcXXboesLXArG7c0YxPcysYtsSu4lY1b4nwFt5K7pT5XcCu5W+IJPsGt5G6pMwvcSu6WnApdm/uW+seIdy+KD7CgwK3ibokWFLhVjVviW21wq7hb4ioocKsat8S3+uBWNW5pp7cCt6pxS/s1p8Ct4m4t4hwAt4q7JadCV+7WIv9fYkzlbqkz693fMI64cxe4VY1b2v5a4FY1bv0v9fMftYskjh0mAAA=",
+            "averageHeartRate": 149.0,
+            "maxHeartRate": 179,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -52,7 +52,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI WATCH GT 4",
-            "vendorRecordId": "1756364360000_tr_skipping"
+            "vendorRecordId": "1757033114000_tr_skipping"
         },
         "planId": null,
         "workoutId": null,
