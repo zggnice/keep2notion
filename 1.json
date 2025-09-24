@@ -7,12 +7,12 @@
             "birthday": 1041638400000,
             "_id": "589861238c26a32953b1b593"
         },
-        "id": "589861238c26a32953b1b593_9223370278351217807_tr",
+        "id": "589861238c26a32953b1b593_9223370278236558807_tr",
         "feel": -1,
-        "calorie": 77,
-        "duration": 582,
-        "startTime": 1758502773000,
-        "endTime": 1758503558000,
+        "calorie": 107,
+        "duration": 919,
+        "startTime": 1758617090000,
+        "endTime": 1758618217000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAAK3azWrcQBAE4HfZ8x7Uf5LWtzxAwPeQwwYUWIiDidYQCHn3mD1lKtWEAt2sS1Oen/40s/r063S/vWz7/fryenqazo+nDz9v++Phy3a978/bj4+372/37fS0Xs6n1+vb/v7n1+u3fTufbvvzX8+/z0O5GuoVKXgpqaBNQ8XHI5a0adFqjimNxTQzqaaPOZ3nTK3mmNN5zpBqxpgzaE7TJj3GnEFzuva/55gzaU7X1lKOOfOInDXBij+iJuwinnOWas5jzpnmjEmrOeacac7Q5mgZcy48p7bflzHnwnOuUs11zLnSnKn1kHXMuR4xnpcx54WPp1hzzHk5Iud7Y8dGT6tqq94maPXTEXNviBJXSZx9Q5a4S6n1EgOYjMtUoqBAk3GbUlwDgJNxndLFqpCV+yT2FAOgjAulriwgyrhRoflsgJRxpVLr/lb4GsXXgPZ+YgCVcalS7ANAlXGrStxbgJVxrUocAeDKuFezmBXAMi7WIq4BIMu4WSWuV0DLuFqz2F+BLeNuiVkd3HLuVml9wMEt526pVcEt527N2hpwcMu5W+JsOR6ouFtyVcjK3VKrglvO3Zq1PuDglnO3xD7g4JZzt+SqkJW7pY4AuOXcLXW9glvO3VL3Frjl3C25KmRt3BKrglvO3VJ3AbjljVua3A5uOXertHdCB7e8cUtcWeCWc7fkqpC1cUubrQC3onFLG9cAt6JxS3vXDnArDnErwK1o3NI6YYBb0Zy3xBs2cCu4W+q44mUgd6u0U1zgdSB3S11Z4FZwt+SqkJW7JZ4LAtwK7lZpnTDArWjcElcWuBXcLVHuALeCuzWL6xXcisYtcQTArTjErQC3onFLrQpZG7fEHQtuReOWWhWyNm5pI5DgVh5y3kpwK7lb4htRglvZuCX+MgJuZeOWOK7gVnK3UtuxCW5lc08ozha4lc09oVoVsnK3UusuiT9kNW5p/TXxp6zGLXEEwK1szluasQluJXdL3QXgVjZuibMFbiV3S7wlS3AruVuL2F3AreRuiV07wa1s3FKrQtbGLbFngVvZuKVWhayNW1onLHCrGrfUzy3wg4sj7l0K3CruljiuBW4Vd0utCm5Vc95Sq0LW5ryl9dcCt6q5J9T6a4Fb1dwTiiMAblVzTyiuV3CrmntCrb8WfoRxyD1h/fMZxiFZwa1q3NIsKHCrmvOW2AfArWrOW/9bWZ//AIcljS9zJgAA",
-            "averageHeartRate": 150.0,
-            "maxHeartRate": 171,
+            "heartRates": "H4sIAAAAAAAAAK3bwYocNxSF4XeZ9SxautKVyrs8QMB748UEOjAQB5MeQyDk3TPMKnVyLuGH2rk3h2O1pE+qrvny19Pb67f74+3l2/enT7fnj08//fn6+Pjwy/3l7fH5/sfPr7//eLs/fdrj+en7y4/H+z9/ffntcX9+en18/tfnv59PcfOUN03g0VBgu50SPz5qZGsw89yyuZqtJcrs557d97yxzHPPbodzo8g41wxX8+gs8twybEv2Hx/nlsO2hJHnluOClvMmk91FBouU9WNbThSZ55ZpWx4s8twy7fq5scx1rrn8+mGb0Tr3XFf03Oee2/a8sW99n3tu35PtR8e55+F7ss3jOPc8fE+2e7xv6LrB21SqhmzxN98VpipGXqMb20aacmQ9gptyE4+aBYlaLCA1K9Jmk6oJSc2ahEOlqVVps6XfhKXmXYJflMDUrEy0qdDUvE1wnk49Ntl5CpsKT8361G5s428iVCuIYtt0E6OaR4p2FaXaJUw1cap5qNqCqdLVUwWPzk2sah4riH8TrZrnqrHl2oWr7rnCqXLS91zBEejCVS8uT2wOdOGq++tTh1cdvT/5C1RnYHW9QVmwWmf7QBexuhWrdXiBFLK6JasFHAExq1uz3nmEqdLVooVTRa1u1WoBV4Gw1S1buKu41b1b9NsSt7p3i85XcasXbrEjVhe3euEWTBW3euEWHFdxqxduMWO7uNW9W3QnFLe6d6vDhzTiVni3OrMgxK3wbgXsKm6FdwvuAyFuhXcr4PM0cSu8W4NZEOJWeLfgnhX68K9wi6ZKV+8WTRW3wrtF56u4Fd4tKHeIW+Hd6mx3CXErCrfYThjiVlziVohb4d0K5laIW+HdwqnS1btF15a4Fd6tAeeAuBXerQH3V3ErvFsDzgFxK7xbwVbsELeGdwunyq8BhVswVdwahVs0Vbp6twY7ZQxxa3i3gs3XIW4N7xacr0PcGt4tnCpdvVs0VX+6Ku5b7JQx9Ner4r7F3Bri1ijuW3C+ilujcAvOV3FrFG7RVOlauMV2wiFujUvcGuLWKNyCK1bcGt6tCbuKW8O7NeF8FbeGdwunSlfv1mTngSluTe/WZGtrilvTuzXZHJji1vRuJfwpW9ya3q2EXcWt6d3CqdLVu7XgCIhb07tF54C4Nb1bNFXcmt4tuA9McWt6t+ja0hcvvFt0BP7z7oXvCkdA3JrerclOGVPcmt4tmipuTe8WHQFxa3q36BwQt2bhFk2Vrpe4NcWtWbgFu4pbs3CLdU1xKwu32Pk1xa0s3IJdxa30bsFVkOJWerdoqriV3i04B1LcSu8WXLEpbmXhFk2VroVbcATErbzErRS3snALpopbWbgFZ5a4lYVb7A6T4lYWbtFU6Vq4BVPFrSzcYr8XpLiVhVtwJxS3snCLpkrXS9xKcSsvuW+luJWFW2wElri1vFsJXyAVt5Z3K9metcStVdy32CpY4tYq3IKv5Ypbq3CLpkrXwi2YKm6t4jkhe0a0xK1VPCeE35a4tYrnhOwOs8StVTwnhKni1vJu0XEVt5Z3i6aKW8u7Rb8tcWt5twbcB/Sd98ItOAL61nvhFju7LHFrFW7B/VXcWpe4tcStVbgFV4G4tQq3WOoWt3Zx32LjusWtXdy32Hzd4tYu7ltwBMStXTwnhKni1i6eE7KZtcWt7d2C54Etbm3vVrJ9YItb27sFTxlb3NreLfiseItb27uV7Ga0xa3t3Up20tzi1vZu0REQt7Z3i35b4tYu7lvwT6DErV24BVesuLUveU649e+1Lvl9a+tfbBVuwfkqbu3CLZoqXQu3WOohbh2FW2y+HuLWUbgFU8Wto3Dr/2bW138AQfouiDo9AAA=",
+            "averageHeartRate": 135.0,
+            "maxHeartRate": 173,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -52,7 +52,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI WATCH GT 4",
-            "vendorRecordId": "1758502773000_tr_skipping"
+            "vendorRecordId": "1758617090000_tr_skipping"
         },
         "planId": null,
         "workoutId": null,
